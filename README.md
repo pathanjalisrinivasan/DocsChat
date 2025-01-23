@@ -16,8 +16,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Deep
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/pathanjalisrinivasan/DocsChat.git
-cd DocsChat
+git clone https://github.com/pathanjalisrinivasan/DocsChat-RAG.git
+cd DocsChat-RAG
 ```
 2. **Set up the environment:**
 ```bash
